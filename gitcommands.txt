@@ -1,0 +1,2 @@
+  for creating branch:-  git branch -m <br-name>
+  for switching branch:- git checkout <br-name>
